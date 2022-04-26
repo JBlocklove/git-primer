@@ -1,7 +1,8 @@
 ## Basic Git Primer
 
-<img src="xkcd_git.png" alt="XKCD Git" width="350" />
+*xkcd: Git - Randall Munroe*
 
+<img src="xkcd_git.png" alt="XKCD Git" width="350" />
 
 Git is a crazy powerful tool for version controlling source code and keeping track of changes by yourself or multiple people on a project. That said, you can definitely get yourself into some rough situations if you don't feel confident that you know what you're doing. This document is meant to serve as a primer to help you get started using git.
 
